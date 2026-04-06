@@ -8,7 +8,7 @@ Here is the original image. The first step in the process is to resize it to mak
 
 ![Original Image](images/01_Original_Image.png)
 <br>
-![Resized Image](images/02_Resized_Rplot.png) *(Note: Update extension to .png/.jpg if different)*
+![Resized Image](images/02_Resized_Rplot.png)
 
 After resizing, the processing begins by converting the image into a set of data points, extracting the unique colors, and renaming them to RGB values.
 
