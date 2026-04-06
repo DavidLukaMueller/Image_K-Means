@@ -83,3 +83,5 @@ Here, the only elbow-ish part is at `K = 16`. Up until 16, the angle gradually r
 Here is the final result using `K = 16`. Everything is visible; the hand shadow looks a bit weird, but this image looks highly usable. 
 
 While I'm sure if I reduced the `K` value manually I could find the absolute minimal `K` that shows all the necessary details, doing so would go against the parameters of the assignment.
+
+# Conclusion: Honestly, if it wasnt asked to find the elbow I would have just started at a estimated number of colors and multiplying it by a certain amount and manually check each K and reduce until the important data starts dissapearing.
