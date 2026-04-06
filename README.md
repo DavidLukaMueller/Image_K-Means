@@ -6,7 +6,7 @@ This report outlines the process of reducing the color palette of an image using
 
 Here is the original image. The first step in the process is to resize it to make computation more manageable.
 
-![Original Image](images/01_Original_image.png)
+![Original Image](images/01_Original_Image.png)
 <br>
 ![Resized Image](images/02_Resized_Rplot.png) *(Note: Update extension to .png/.jpg if different)*
 
