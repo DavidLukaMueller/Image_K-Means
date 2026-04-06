@@ -1,6 +1,3 @@
-***
-
-```markdown
 # Image Color Quantization and Clustering Analysis
 
 This report outlines the process of reducing the color palette of an image using K-Means clustering and Principal Component Analysis (PCA). 
